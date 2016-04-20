@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d5e1146a3ff5bb2777c3e7c0cfde3c0a82b5ca97.jar" />
-    </item>
-    <item
         jar="/home/hduser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -23,6 +16,20 @@
         <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_e56c9dda36e7a5d35a9c98a0b4d5039d4c9cc7ec.jar" />
     </item>
     <item
+        jar="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_6cadfc1c1946c751ebee4b657e9fe1c6e4f2536f.jar" />
+    </item>
+    <item
+        jar="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d5e1146a3ff5bb2777c3e7c0cfde3c0a82b5ca97.jar" />
+    </item>
+    <item
         jar="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -35,13 +42,6 @@
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
         <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_682088c5ec51092d7d7f09cd2aed61f9da33ec96.jar" />
-    </item>
-    <item
-        jar="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/home/hduser/Desktop/Workspaces/JustJava/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_6cadfc1c1946c751ebee4b657e9fe1c6e4f2536f.jar" />
     </item>
 
 </items>
